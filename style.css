@@ -1,0 +1,6 @@
+html,
+body {
+    height: 100%;
+    background-image: linear-gradient(45deg, darkgray, lightgray);
+    text-align: center;
+}
